@@ -4,7 +4,7 @@
  * MEAM510 Lab 4 demo
  * March 2021
  * 
- * Mark Yim
+ * Base code:Mark Yim, Modifications for project: Brian Grimaldi
  * University of Pennsylvania
  * copyright (c) 2021 All Rights Reserved
  */
